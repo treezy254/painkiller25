@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Samuel-Kamau
-Hi👋, I'm Samuel
+# Hi👋, 
+I'm Samuel
 
 
 <h1 align="center">I like to innovate and inspire new creations.</h1>
