@@ -18,7 +18,7 @@ Hi👋, I'm Samuel
 
 <h1 align="center">I like to innovate and inspire new creations.</h1>
 
-##Fun Fact 🎈
+## Fun Fact 🎈
 <ul>
   <li>📔I'm currently in college pursuing a Bsc in Software Development☠️.</li>
 <li>I'm a Full stack web developer🤩 and also  a data science enthusiast😎.</li>
