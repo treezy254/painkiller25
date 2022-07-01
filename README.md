@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **painkiller254/painkiller254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,10 +18,11 @@ Hi👋, I'm Samuel
 
 <h1 align="center">I like to innovate and inspire new creations.</h1>
 
+##Fun Fact 🎈
 <ul>
-  <li>I'm currently in college pursuing a Bsc in Software Development☠️.</li>
+  <li>📔I'm currently in college pursuing a Bsc in Software Development☠️.</li>
 <li>I'm a Full stack web developer🤩 and also  a data science enthusiast😎.</li>
-<li>I like participating in open source projects🐾.</li>
+<li>👯‍♂️I like participating in open source projects🐾.</li>
 <li>I love music🎶</li>
  </ul>
 
