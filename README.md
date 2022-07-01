@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi👋, I'm Samuel
 
-
-<h1 align="center">I like to innovate and inspire new creations.</h1>
+### I like to innovate and inspire new creations.
 
 ## Fun Fact 🎈
 <ul>
