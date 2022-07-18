@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 <strong>connect with me:</strong>
 <br />
-<strong>languages and tools</strong>
-
+<strong>languages and tools:</strong>
+<i class="fab fa-js"></i>
