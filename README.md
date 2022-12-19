@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" /><br/>
 
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue" />
 <img src="https://github-readme-stats.vercel.app/api?username={username}" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}" />
-<img src="https://github-profile-trophy.vercel.app/?username={username}" />
+<img src="https://github-profile-trophy.vercel.app/?username={username}" /> -->
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
