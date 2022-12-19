@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <li>🎶I love music</li>
  </ul>
 
-https://kamaudev.netlify.app/assets/savana.png
+<img src="https://kamaudev.netlify.app/assets/savana.png" />
 
 
 
